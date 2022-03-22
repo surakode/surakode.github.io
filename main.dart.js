@@ -47245,7 +47245,7 @@ A.qh.prototype={
 aJ(){return new A.E7(B.o)}}
 A.E7.prototype={
 S(a,b){var s=null,r=t.R
-return new A.ra(A.wM(s,new A.wI(B.j8,B.p3,B.eh,B.jC,s,B.iW,s,A.a([B.CE,new A.w5(A.Mt("avatar.png",s,s),100,s),B.iO,B.GV,B.CG,B.GX,B.CF,B.GT,B.CH,B.GW,B.iO,A.a4f(A.a([A.pr(s,A.Mt("github.png",B.i,50),B.ah,!1,s,s,s,s,s,s,s,s,s,s,new A.Wm(),s,s,s,s,s),A.pr(s,A.Mt("linkendin.png",B.i,65),B.ah,!1,s,s,s,s,s,s,s,s,s,s,new A.Wn(),s,s,s,s,s),A.pr(s,A.Mt("mail.png",B.i,60),B.ah,!1,s,s,s,s,s,s,s,s,s,s,new A.Wo(),s,s,s,s,s),B.iO],r),B.p3,B.eh),A.pr(s,A.wM(s,B.GU,B.z,s,s,B.rB,s,s,B.wm,s,s,s),B.ah,!1,s,s,s,s,s,s,s,s,s,s,new A.Wp(),s,s,s,s,s),B.CI,B.GS],r),s),B.z,s,s,B.rC,s,s,s,s,s,s),s)}}
+return new A.ra(A.wM(s,new A.wI(B.j8,B.p3,B.eh,B.jC,s,B.iW,s,A.a([B.CE,new A.w5(A.Mt("images/avatar.png",s,s),100,s),B.iO,B.GV,B.CG,B.GX,B.CF,B.GT,B.CH,B.GW,B.iO,A.a4f(A.a([A.pr(s,A.Mt("images/github.png",B.i,50),B.ah,!1,s,s,s,s,s,s,s,s,s,s,new A.Wm(),s,s,s,s,s),A.pr(s,A.Mt("images/linkendin.png",B.i,65),B.ah,!1,s,s,s,s,s,s,s,s,s,s,new A.Wn(),s,s,s,s,s),A.pr(s,A.Mt("images/mail.png",B.i,60),B.ah,!1,s,s,s,s,s,s,s,s,s,s,new A.Wo(),s,s,s,s,s),B.iO],r),B.p3,B.eh),A.pr(s,A.wM(s,B.GU,B.z,s,s,B.rB,s,s,B.wm,s,s,s),B.ah,!1,s,s,s,s,s,s,s,s,s,s,new A.Wp(),s,s,s,s,s),B.CI,B.GS],r),s),B.z,s,s,B.rC,s,s,s,s,s,s),s)}}
 A.Wm.prototype={
 $0(){B.P.nV(window,"https://github.com/surakode","github")},
 $S:0}
